@@ -4397,7 +4397,7 @@ tbody.collapse.show {
   display: inline-block;
   padding-right: 0.5rem;
   padding-left: 0.5rem;
-  color: #ffffffff;
+  color: #6c757d;
   content: "/";
 }
 .breadcrumb-item + .breadcrumb-item:hover::before {

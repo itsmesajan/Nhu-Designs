@@ -396,7 +396,7 @@ label {
   background-color: #1156a0 !important;
 }
 .breadcrumb > .active {
-  color: #ffffffff;
+  color: #888;
 }
 .owl-carousel .owl-nav div {
   background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
@@ -2030,7 +2030,7 @@ ul.post-entry-data li:not(:last-child) {
 	font-size: 71.96px;
 	line-height: 86.352px;
 	margin: 0 0 5px;
-	color: #ffffffff;
+	color: #fdfdfdff;
 	font-weight: 400;
   }
 
@@ -2058,7 +2058,7 @@ ol.breadcrumb li a {
   font-size: 14px;
   line-height: 25px;
   font-weight: 400;
-  color: #ffffffff;
+  color: #333e48;
   opacity: 0.6;
 }
 ol.breadcrumb li a.active {
@@ -2431,9 +2431,9 @@ ul.color-list li:hover {
 
 /* ------------------------- 10. single-product ----------------------- */
 
-/* single product */
+/* Sling Bags */
 
-/* single product top */
+/* Sling Bags top */
 .single-product-title h2 {
   font-size: 35.9996px;
   line-height: 43.1995px;
@@ -2520,7 +2520,7 @@ ul.color-list li:hover {
   color: #999;
 }
 
-/* single product buttom */
+/* Sling Bags buttom */
 .single-product-bottom ul.nav li a {
   color: #000;
   font-size: 19.88px;
@@ -4404,4 +4404,18 @@ a.replay:hover{
 }
 .sidebar-list {
 	display: none;
+}
+
+
+/* New Custom */
+ol.breadcrumb.white li a {
+  color: #ffffffff;
+}
+
+.breadcrumb.white > .active {
+  color: #ffffffff;
+}
+
+.breadcrumb.white .breadcrumb-item::before {
+  color: #ffffffff !important;
 }
