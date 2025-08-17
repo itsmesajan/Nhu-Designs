@@ -396,7 +396,7 @@ label {
   background-color: #1156a0 !important;
 }
 .breadcrumb > .active {
-  color: #888;
+  color: #ffffffff;
 }
 .owl-carousel .owl-nav div {
   background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
@@ -2029,7 +2029,7 @@ ul.post-entry-data li:not(:last-child) {
 	font-size: 71.96px;
 	line-height: 86.352px;
 	margin: 0 0 5px;
-	color: #333;
+	color: #ffffffff;
 	font-weight: 400;
   }
 
@@ -2057,7 +2057,7 @@ ol.breadcrumb li a {
   font-size: 14px;
   line-height: 25px;
   font-weight: 400;
-  color: #333e48;
+  color: #ffffffff;
   opacity: 0.6;
 }
 ol.breadcrumb li a.active {
