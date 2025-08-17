@@ -2024,6 +2024,7 @@ ul.post-entry-data li:not(:last-child) {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+  height: 100vh;
   }
   .has-breadcrumb-bg h2 {
 	font-size: 71.96px;
