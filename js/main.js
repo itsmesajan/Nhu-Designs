@@ -386,7 +386,7 @@ $('.close-search-popup').on('click',function(){
 // slick slider text content
 $('#slick-slide-control00').html('Tote Bag');
 $('#slick-slide-control01').html('Clutch Bag');
-$('#slick-slide-control02').html('Laptop Sleeve');
+$('#slick-slide-control02').html('Lap');
 // slick slider number content
 $('.number-dots #slick-slide-control00').html('01');
 $('.number-dots #slick-slide-control01').html('02');
