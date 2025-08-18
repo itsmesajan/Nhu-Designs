@@ -1166,6 +1166,7 @@ header.header ul li .search-result-list ul li {
   transition: all 0.5s;
   height: auto;
   background-color: #fffffff2;
+  z-index: 100;
 }
 .black-sticky.sticky {
   background-color: #000000a2;
